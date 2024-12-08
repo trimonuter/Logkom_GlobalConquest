@@ -1,0 +1,59 @@
+consult('C:/Users/LENOVO/Documents/Kuliah/[Kuliah] Semester III/1 - Logika Komputasional/IF2121_GlobalConquest/src/main.pl').
+startGame.
+3.
+bocchi.
+ryo.
+nijika.
+takeLocation(na1).
+takeLocation(na2).
+takeLocation(na3).
+takeLocation(na4).
+takeLocation(na5).
+takeLocation(sa1).
+takeLocation(sa2).
+takeLocation(e1).
+takeLocation(e2).
+takeLocation(e3).
+takeLocation(e4).
+takeLocation(e5).
+takeLocation(a1).
+takeLocation(a2).
+takeLocation(a3).
+takeLocation(a4).
+takeLocation(a5).
+takeLocation(a6).
+takeLocation(a7).
+takeLocation(af1).
+takeLocation(af2).
+takeLocation(af3).
+takeLocation(au1).
+takeLocation(au2).
+placeAutomatic.
+placeAutomatic.
+placeAutomatic.
+.placeAutomatic
+
+getNeighbors(na1, X).
+getNeighbors(na2, X).
+getNeighbors(na3, X).
+getNeighbors(na4, X).
+getNeighbors(na5, X).
+getNeighbors(sa1, X).
+getNeighbors(sa2, X).
+getNeighbors(e1, X).
+getNeighbors(e2, X).
+getNeighbors(e3, X).
+getNeighbors(e4, X).
+getNeighbors(e5, X).
+getNeighbors(a1, X).
+getNeighbors(a2, X).
+getNeighbors(a3, X).
+getNeighbors(a4, X).
+getNeighbors(a5, X).
+getNeighbors(a6, X).
+getNeighbors(a7, X).
+getNeighbors(af1, X).
+getNeighbors(af2, X).
+getNeighbors(af3, X).
+getNeighbors(au1, X).
+getNeighbors(au2, X).
